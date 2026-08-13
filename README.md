@@ -2,7 +2,7 @@
 
 # 你好，我是 Senjer Feng 👋
 
-### 三维点云处理｜轮廓重建方向
+### 三维点云处理｜建筑轮廓重建方向
 
 **Python · PyTorch · CUDA · Point Cloud · Deep Learning**
 
